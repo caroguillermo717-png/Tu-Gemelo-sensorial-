@@ -1,1 +1,1 @@
-# Tu-Gemelo-sensorial-
+# Tu-Gemelo-sensorial-makina olografica 
