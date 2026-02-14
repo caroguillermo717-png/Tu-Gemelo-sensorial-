@@ -182,8 +182,8 @@ PROYECTO_SRDH/
 **CERN Open Hardware License v2 - Strongly Reciprocal (CERN-OHL-S)**
 
 Puedes:
-- ✅ Usar comercialmente CON permiso explícito
-- ✅ Modificar y distribuir
+- ✅ solo puedes usarla con permiso explícito del autor y creador Guillermo caro Gutiérrez 
+- ✅ Modificar pero siempre y cuando con permiso 
 - ✅ Usar en investigación libremente
 
 Debes:
