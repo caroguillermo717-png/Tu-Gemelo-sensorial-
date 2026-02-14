@@ -176,71 +176,8 @@ PROYECTO_SRDH/
 
 ---
 
-## ⚖️ LICENCIA
-
-### Hardware
-**CERN Open Hardware License v2 - Strongly Reciprocal (CERN-OHL-S)**
-
-Puedes:
-- ✅ solo puedes usarla con permiso explícito del autor y creador Guillermo caro Gutiérrez 
-- ✅ Modificar pero siempre y cuando con permiso 
-- ✅ Usar en investigación libremente
-
-Debes:
-- ✅ Compartir modificaciones bajo misma licencia
-- ✅ Dar crédito a Guillermo Caro Gutiérrez
-- ✅ Documentar cambios realizados
-
-### Software
-**GNU General Public License v3 (GPLv3)**
-
-### Documentación
-**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)**
-
 ---
 
-## 🚨 ADVERTENCIAS IMPORTANTES
-
-### ⚠️ SEGURIDAD
-Este proyecto involucra:
-- Láseres de clase 3B/4
-- Nanomateriales potencialmente tóxicos
-- Dispositivos médicos no aprobados
-
-**NO intentes replicar sin:**
-- Laboratorio certificado
-- Supervisión de profesionales capacitados
-- Aprobación de comité de ética
-- Cumplimiento de regulaciones locales
-
-### ⚠️ RESPONSABILIDAD
-- Este es un proyecto de INVESTIGACIÓN
-- NO reemplaza tratamiento médico estándar
-- NO usar en pacientes sin aprobación regulatoria
-- Decisiones clínicas son EXCLUSIVAMENTE del médico tratante
-
----
-
-## 📞 CONTACTO
-
-**Proyecto SRDH**  
-Email: [Por establecer]  
-GitHub: https://github.com/proyecto-srdh  
-Twitter: @ProyectoSRDH  
-Foro: https://forum.proyecto-srdh.org  
-
-**Fundador: Guillermo Caro Gutiérrez**  
-Email: [Por establecer]  
-
----
-
-## 🙏 AGRADECIMIENTOS
-
-Este proyecto se apoya en el trabajo de:
-- Comunidad de hardware científico abierto
-- Investigadores que publican en open-access
-- Desarrolladores de software libre
-- Pacientes que inspiraron esta lucha
 
 ---
 
@@ -462,7 +399,7 @@ PROYECTO_SRDH/
 
 Puedes:
 - ✅ Usar comercialmente CON permiso explícito
-- ✅ Modificar y distribuir
+- ✅ Modificar y distribuir solo con la autorización de Guillermo Caro Gutiérrez 
 - ✅ Usar en investigación libremente
 
 Debes:
