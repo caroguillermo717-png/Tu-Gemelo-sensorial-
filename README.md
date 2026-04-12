@@ -1,4 +1,17 @@
-<
+<sequenceDiagram
+    participant P as Paciente
+    participant M1 as Módulo 1: Diagnóstico Raman
+    participant M3 as Módulo 3: Procesamiento ADCE (IA)
+    participant M2 as Módulo 2: Nanopartículas de Oro
+    participant M5 as Módulo 5: Interfaz Holográfica
+
+    P->>M1: Captura de firma vibracional
+    M1->>M3: Envío de datos espectrales
+    M3->>M5: Generación de Mapa 3D
+    M3->>M2: Cálculo de potencia láser
+    M2->>P: Intervención selectiva (Corte térmico)
+    M5->>P: Supervisión en tiempo real
+
 graph TD
     A[Láser Infrarrojo 808nm] --> B{Ventana Biológica}
     B -->|Atraviesa| C[Tejido Sano - Sin Daño]
