@@ -1,4 +1,12 @@
 <
+graph TD
+    A[Láser Infrarrojo 808nm] --> B{Ventana Biológica}
+    B -->|Atraviesa| C[Tejido Sano - Sin Daño]
+    B -->|Choca con| D[Nanopartículas de Oro 40x10nm]
+    D --> E[Resonancia de Plasmón]
+    E --> F[Conversión a Calor Localizado]
+    F --> G[Lisis Celular - Corte de Tejido Dañado]
+    G --> H[Regeneración Natural]
 
 ---
 
